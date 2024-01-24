@@ -1,7 +1,7 @@
 # Leo's Configs for Floorp Browser
 I didn't make any editions at Userchrome.css and I didn't find any way to export the settings I made, but I will keep looking to do the same with Firefox, for now you can replicate these settings through this step by step on Floor Browser.
 
-![Browser](docs/assets/personal_browser.png)
+![Browser](docs/assets/my_browser.png)
 ## Set-up Guide
 
 #### Step 0 - Install Floorp Browser
