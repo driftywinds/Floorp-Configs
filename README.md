@@ -31,6 +31,7 @@ I didn't make any editions at Userchrome.css and I didn't find any way to export
   - Widgets -> Remove all widgets and add Literature Clock
 - Go to Customize Toolbar (By clicking on an empty place of the Firefox title bar)
   - Add 5 Flexible Space to the left and right of the search bar.
+- Go to `about:preferences#bSB` -> Turn "Show the Browser Manager Sidebar" off
 
 ## That's all
 Enjoy your new browser style!
