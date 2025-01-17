@@ -79,7 +79,7 @@
     "updateSidebarTitle": true,
     "markWindow": false,
     "markWindowPreface": "[Sidebery] ",
-    "ctxMenuNative": false,
+    "ctxMenuNative": true,
     "ctxMenuRenderInact": true,
     "ctxMenuRenderIcons": true,
     "ctxMenuIgnoreContainers": "",
